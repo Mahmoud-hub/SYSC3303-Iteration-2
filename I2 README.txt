@@ -47,10 +47,10 @@ UML class diagram: Ross Matthew, Marko Simic
 README.txt: Mahmoud Al Sous
 UML sequence diagram: Mahmoud Al Sous
 RequestInfo.java: Ross Matthew
-ElevatorSubsystem.java: Ross Matthew, Archit Bhatia
-Schedular.java: Marko Simic, Michael Slokar
+ElevatorSubsystem.java: Archit Bhatia
+Schedular.java: Michael Slokar
 Test.java: Marko Simic
 FloorSubsystem.java: Mahmoud Al Sous
-JUnit_Test.java: Ross Matthew, Mahmoud Al Sous, Marko Simic
+JUnit_Test.java: Marko Simic
 Elevator Subsystem State Diagram: Mahmoud Al Sous, Marko Simic
 Scheduler State Diagram: Ross Matthew
